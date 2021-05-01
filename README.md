@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Based on the course of [Programing with Mosh](https://www.youtube.com/watch?v=Ke90Tje7VS0&t=1574s) video, 01/05/2021 Erick Amezcua
 
 ## Available Scripts
 
